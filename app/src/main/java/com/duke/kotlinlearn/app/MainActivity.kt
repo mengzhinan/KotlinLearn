@@ -1,4 +1,4 @@
-package com.duke.kotlinlearn
+package com.duke.kotlinlearn.app
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

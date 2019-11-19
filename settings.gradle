@@ -1,2 +1,2 @@
-include ':app',':KotlinLearn', ':LearnLib'
+include ':app', ':LearnLib'
 rootProject.name='KotlinLearn'
